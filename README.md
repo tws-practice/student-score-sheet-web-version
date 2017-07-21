@@ -1,8 +1,5 @@
----
-layout: post
-title: 练习：学生成绩单（Web版）
-categories: training
----
+# 练习：学生成绩单（Web版）
+
 ## 练习目标
 
 - 基于新需求，重构既有代码
