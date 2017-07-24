@@ -88,6 +88,8 @@ CSS W3school教程：[http://www.w3school.com.cn/css/index.asp](http://www.w3sch
 
 Bootstrap中文文档：[http://www.bootcss.com/](http://www.bootcss.com/)
 
+JavaScript 闯关记：[https://github.com/stone0090/javascript-lessons/](https://github.com/stone0090/javascript-lessons/)
+
 ## 常见问题
 
 1. JS中如何取DOM元素的值：https://github.com/stone0090/javascript-lessons/blob/master/2.2-DOM/README2.md
