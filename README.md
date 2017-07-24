@@ -87,3 +87,10 @@ HTML W3school教程：[http://www.w3school.com.cn/html/index.asp](http://www.w3s
 CSS W3school教程：[http://www.w3school.com.cn/css/index.asp](http://www.w3school.com.cn/css/index.asp)
 
 Bootstrap中文文档：[http://www.bootcss.com/](http://www.bootcss.com/)
+
+## 常见问题
+
+1. 如何给元素添加事件监听函数：https://www.w3schools.com/jsref/met_element_addeventlistener.asp
+2. 如何阻止表单默认提交行为：https://stackoverflow.com/questions/5915893/stop-form-submission-with-submit-eventlistener
+3. 如何等到页面完全载入再运行函数：https://stackoverflow.com/questions/799981/document-ready-equivalent-without-jquery
+4. localStorage如何存储对象和数组：https://my.oschina.net/crazymus/blog/371757
