@@ -75,6 +75,11 @@
 1. 说明如何运行和测试代码的README.md文件
 2. 运行结果的截图文件（一个功能一张截图）
 
+## 如何开始：
+
+1. git clone [https://github.com/goooooouwa/student-management-system-starting-point](https://github.com/goooooouwa/student-management-system-starting-point)
+2. 打开项目文件，完成练习。
+
 ## 学习资源
 
 HTML W3school教程：[http://www.w3school.com.cn/html/index.asp](http://www.w3school.com.cn/html/index.asp)

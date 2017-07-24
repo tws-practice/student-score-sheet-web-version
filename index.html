@@ -1,0 +1,29 @@
+<html>
+<head>
+    <title>Student Management System</title>
+    <script src="./main.js"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        // execute when DOM content is loaded
+        document.getElementById('my-form').addEventListener('submit', function (event) {
+          event.preventDefault();
+          let firstNameArray = document.getElementsByName('firstname');
+          printSomething(firstNameArray[0].value);
+          return false;
+        })
+      });
+    </script>
+</head>
+<body>
+<h1>Simple Example of Form Submission with Javascript</h1>
+<form id="my-form">
+    First name:<br>
+    <input type="text" name="firstname" value="Mickey">
+    <br>
+    Last name:<br>
+    <input type="text" name="lastname" value="Mouse">
+    <br><br>
+    <input type="submit" value="Submit">
+</form>
+</body>
+</html>
