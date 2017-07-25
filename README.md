@@ -68,7 +68,7 @@
 
 ### 输出结果
 
-将代码库地址提交到「暑期特训营练习收集」：[https://shimo.im/sheet/bF2uUgo3PmUuhgz9/gdQxZ/
+将代码库地址提交到教练指定的位置。
 
 代码库需包含：
 
