@@ -77,7 +77,7 @@
 
 ## 如何开始：
 
-1. git clone [https://github.com/goooooouwa/student-management-system-starting-point](https://github.com/goooooouwa/student-management-system-starting-point)
+1. `git clone https://github.com/tws-practice/student-score-sheet-web-version`
 2. 打开项目文件，完成练习。
 
 ## 学习资源
